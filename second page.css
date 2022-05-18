@@ -1,0 +1,29 @@
+.parent{
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    background: black;
+    
+}
+
+.first {
+    border: 0.5px solid rgb(255, 255, 255);
+    flex:1;
+    width:30%;
+    box-sizing: border-box;
+}
+
+.second{
+    border: 0.5px solid rgb(255, 255, 255);
+    flex:1;
+    margin: 0px 5%;
+    width:30%;
+    box-sizing: border-box;
+}
+
+.third{
+    border: 0.5px solid rgb(255, 255, 255);
+    flex:1;
+    width:30%;
+    box-sizing: border-box;
+}
