@@ -1,10 +1,10 @@
 @font-face {
     font-family: sig;
     src: url("Signifier-Light.otf");
-    -webkit-font-smoothing:antialiased;
+    
 }
 
-html{font-family: sig;}
+html{-webkit-font-smoothing:antialiased; font-family: sig;}
 
 a:link {
   color : rgb(0, 0, 0);
