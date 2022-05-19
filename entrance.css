@@ -1,6 +1,7 @@
 @font-face {
     font-family: sig;
     src: url("Signifier-Light.otf");
+    -webkit-font-smoothing:antialiased;
 }
 
 html{font-family: sig;}
