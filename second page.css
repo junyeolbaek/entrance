@@ -31,14 +31,12 @@ a:active {
 }
 
 .first {
-    border: 0px solid rgb(255, 255, 255);
     flex:1;
     width:30%;
     box-sizing: border-box;
 }
 
 .second{
-    border: 0px solid rgb(255, 255, 255);
     flex:1;
     margin: 0px 5%;
     width:30%;
@@ -46,7 +44,6 @@ a:active {
 }
 
 .third{
-    border: 0px solid rgb(255, 255, 255);
     flex:1;
     width:30%;
     box-sizing: border-box;
