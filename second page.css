@@ -6,6 +6,23 @@
     
 }
 
+a:link {
+  color : rgb(0, 0, 0);
+  text-decoration: none;
+}
+a:visited {
+  color : black;
+  text-decoration: none;
+}
+a:hover {
+  color : rgb(115, 115, 115);
+  text-decoration: none;
+}
+a:active {
+  color : rgb(0, 0, 0)
+  
+}
+
 .first {
     border: 0.1px solid rgb(255, 255, 255);
     flex:1;
