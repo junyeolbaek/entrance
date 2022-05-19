@@ -7,15 +7,15 @@
 }
 
 a:link {
-  color : rgb(0, 0, 0);
+  color : rgb(255, 255, 255);
   text-decoration: none;
 }
 a:visited {
-  color : black;
+  color : white;
   text-decoration: none;
 }
 a:hover {
-  color : rgb(115, 115, 115);
+  color : rgb(255, 255, 255);
   text-decoration: none;
 }
 a:active {
